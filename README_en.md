@@ -61,7 +61,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
 ---
-#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [PowerShell 1-Click Guide: Elevate, Fix & Setup](https://youtu.be/YOUR_VIDEO_ID)
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [PowerShell 1-Click Guide: Elevate, Fix & Setup](https://youtu.be/q_gJc6e8tK0)
 
 <a href="https://youtu.be/q_gJc6e8tK0" target="_blank">
   <img src="images/021-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
